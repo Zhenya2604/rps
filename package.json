@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "ascii-table": "^0.0.9",
+    "crypto-js": "^4.1.1",
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.17.6",
+    "@babel/core": "^7.17.9",
+    "@babel/node": "^7.16.8",
+    "@babel/preset-env": "^7.16.11"
+  }
+}
